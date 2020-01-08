@@ -1,7 +1,7 @@
 const req = require('request')
 
 //登录网站，从network中获取 sessionId，复制到此
-let sessionId = 'ASP.NET_SessionId=yje4gdw12cazltkq2x5mfjob';
+let sessionId = 'ASP.NET_SessionId=rsknqepljoefxpi52gg54cad';
 
 
 let course = {
